@@ -1,5 +1,5 @@
 # AI-ASSISTANT-USAGE(Classification)
-## Dataset: https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic
+
 ## Part A: Basic EDA
 - Imported libraries and loaded the dataset into a Pandas DataFrame and displayed the first 5 rows.
 - Checked the dataset shape which has 10000 rows and 11 columns
